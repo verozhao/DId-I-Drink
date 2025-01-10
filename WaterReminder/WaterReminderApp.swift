@@ -2,7 +2,7 @@
 //  WaterReminderApp.swift
 //  WaterReminder
 //
-//  Created by test on 1/10/25.
+//  Created by veronica on 1/10/25.
 //
 
 import SwiftUI
